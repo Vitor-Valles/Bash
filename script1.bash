@@ -7,8 +7,8 @@ echo "" >> output.txt
 #Aqui temos apenas uma linha para ficar esteticamnte mais agradavel
 echo "##################################" >> output.txt
 
-#O resultado esperado será´:
-#Esse e meu primeiro script em BASH
-#
+#O resultado esperado será:
+Esse e meu primeiro script em BASH
+
 ###################################
 
